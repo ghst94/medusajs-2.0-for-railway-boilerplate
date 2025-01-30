@@ -5,6 +5,8 @@ import "styles/globals.css"
 export const metadata: Metadata = {
   metadataBase: new URL(getBaseURL()),
 }
+import Footer from "@modules/layout/templates/footer";
+import Nav from "@modules/layout/templates/nav";
 
 export default function RootLayout(props: { children: React.ReactNode }) {
   return (
