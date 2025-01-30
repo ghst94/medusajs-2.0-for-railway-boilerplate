@@ -2865,13 +2865,13 @@ __metadata:
   linkType: hard
 
 "@medusajs/js-sdk@npm:preview":
-  version: 2.4.1-preview-20250130180147
-  resolution: "@medusajs/js-sdk@npm:2.4.1-preview-20250130180147"
+  version: 2.4.1-preview-20250130210149
+  resolution: "@medusajs/js-sdk@npm:2.4.1-preview-20250130210149"
   dependencies:
-    "@medusajs/types": "npm:2.4.1-preview-20250130180147"
+    "@medusajs/types": "npm:2.4.1-preview-20250130210149"
     fetch-event-stream: "npm:^0.1.5"
     qs: "npm:^6.12.1"
-  checksum: 10c0/eef460c10f58b255138d9995d52eed33c6ce0b250d413254dc27a4d8b5a2d70664f1d4ab917be880e8a9b02011f17d2b53661e81a63938fc034dc47c3de336e2
+  checksum: 10c0/3b1de12c3a52144653a9749b5143a5ac3324263bfbc78339549142db1150db36233bf691cedc1bb75f2e7de6a72b82c6b4285e3c84647ba171e39c5b07f0703f
   languageName: node
   linkType: hard
 
@@ -3233,9 +3233,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@medusajs/types@npm:2.4.1-preview-20250130180147, @medusajs/types@npm:preview":
-  version: 2.4.1-preview-20250130180147
-  resolution: "@medusajs/types@npm:2.4.1-preview-20250130180147"
+"@medusajs/types@npm:2.4.1-preview-20250130210149, @medusajs/types@npm:preview":
+  version: 2.4.1-preview-20250130210149
+  resolution: "@medusajs/types@npm:2.4.1-preview-20250130210149"
   dependencies:
     bignumber.js: "npm:^9.1.2"
   peerDependencies:
@@ -3247,7 +3247,7 @@ __metadata:
       optional: true
     vite:
       optional: true
-  checksum: 10c0/34dc5565ed115f1986749fef1e66e243491e9d0ff3d4bddfe693c3ee75c29f52f8de52dc5895cb2414dd1672df25f5a8395b2ecb4933b52d1e53a4f3b2d0eb6e
+  checksum: 10c0/4b1f82c3b7207dc494db133d7c89cb0a0b62bd75fb64f116a5eaca6f600dc89145267b8db5884015cd8574a7b3922e5fbe3c96ab254a85052002a6c7c555454a
   languageName: node
   linkType: hard
 
@@ -3270,14 +3270,14 @@ __metadata:
   linkType: hard
 
 "@medusajs/ui-preset@npm:preview":
-  version: 2.4.1-preview-20250130180147
-  resolution: "@medusajs/ui-preset@npm:2.4.1-preview-20250130180147"
+  version: 2.4.1-preview-20250130210149
+  resolution: "@medusajs/ui-preset@npm:2.4.1-preview-20250130210149"
   dependencies:
     "@tailwindcss/forms": "npm:^0.5.3"
     tailwindcss-animate: "npm:^1.0.6"
   peerDependencies:
     tailwindcss: ">=3.0.0"
-  checksum: 10c0/14838f34b4769d81936ba28426e8d902ac12ce3039f1642f95d24ea95e5ee60c1f9dd966ec7beefc01f25c48bc6bc8996c4fa7208c29833d468ffae6f4aef912
+  checksum: 10c0/68bae880ccf5ccee487f25c3e8b7059732ac151a998ee6b044f1786c5b661d2946d5aa4a3cb5d00eaaa51ce4c6e8a85bb69ee50b04b6e999a89935ae18c26179
   languageName: node
   linkType: hard
 

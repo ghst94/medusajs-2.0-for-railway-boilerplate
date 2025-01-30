@@ -4289,11 +4289,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:2.4.1-preview-20250130180147", {\
-        "packageLocation": "../../home/codespace/.yarn/berry/cache/@medusajs-js-sdk-npm-2.4.1-preview-20250130180147-721fcc9cdf-10c0.zip/node_modules/@medusajs/js-sdk/",\
+      ["npm:2.4.1-preview-20250130210149", {\
+        "packageLocation": "../../home/codespace/.yarn/berry/cache/@medusajs-js-sdk-npm-2.4.1-preview-20250130210149-64e2b398de-10c0.zip/node_modules/@medusajs/js-sdk/",\
         "packageDependencies": [\
-          ["@medusajs/js-sdk", "npm:2.4.1-preview-20250130180147"],\
-          ["@medusajs/types", "virtual:721fcc9cdfc7e63916072523e5e0f729fee8a54dad6756fc436e37dab661beee6fce45bad235110ad67216dc13af8e62e086f313175d1b8caff0471208c88fe7#npm:2.4.1-preview-20250130180147"],\
+          ["@medusajs/js-sdk", "npm:2.4.1-preview-20250130210149"],\
+          ["@medusajs/types", "virtual:64e2b398de003c889d7ee7a2e8c49cd91228ba1fee2befa518c0211c7a27f2490e88865874d20264c2c0a21a84c76c69ddc6b4b115007b1319af612abfe5bf72#npm:2.4.1-preview-20250130210149"],\
           ["fetch-event-stream", "npm:0.1.5"],\
           ["qs", "npm:6.14.0"]\
         ],\
@@ -5144,10 +5144,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["npm:2.4.1-preview-20250130180147", {\
-        "packageLocation": "../../home/codespace/.yarn/berry/cache/@medusajs-types-npm-2.4.1-preview-20250130180147-87810a9122-10c0.zip/node_modules/@medusajs/types/",\
+      ["npm:2.4.1-preview-20250130210149", {\
+        "packageLocation": "../../home/codespace/.yarn/berry/cache/@medusajs-types-npm-2.4.1-preview-20250130210149-29953d0efc-10c0.zip/node_modules/@medusajs/types/",\
         "packageDependencies": [\
-          ["@medusajs/types", "npm:2.4.1-preview-20250130180147"]\
+          ["@medusajs/types", "npm:2.4.1-preview-20250130210149"]\
         ],\
         "linkType": "SOFT"\
       }],\
@@ -5173,10 +5173,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["virtual:721fcc9cdfc7e63916072523e5e0f729fee8a54dad6756fc436e37dab661beee6fce45bad235110ad67216dc13af8e62e086f313175d1b8caff0471208c88fe7#npm:2.4.1-preview-20250130180147", {\
-        "packageLocation": "./.yarn/__virtual__/@medusajs-types-virtual-e75c695526/3/home/codespace/.yarn/berry/cache/@medusajs-types-npm-2.4.1-preview-20250130180147-87810a9122-10c0.zip/node_modules/@medusajs/types/",\
+      ["virtual:64e2b398de003c889d7ee7a2e8c49cd91228ba1fee2befa518c0211c7a27f2490e88865874d20264c2c0a21a84c76c69ddc6b4b115007b1319af612abfe5bf72#npm:2.4.1-preview-20250130210149", {\
+        "packageLocation": "./.yarn/__virtual__/@medusajs-types-virtual-4ce99b1f56/3/home/codespace/.yarn/berry/cache/@medusajs-types-npm-2.4.1-preview-20250130210149-29953d0efc-10c0.zip/node_modules/@medusajs/types/",\
         "packageDependencies": [\
-          ["@medusajs/types", "virtual:721fcc9cdfc7e63916072523e5e0f729fee8a54dad6756fc436e37dab661beee6fce45bad235110ad67216dc13af8e62e086f313175d1b8caff0471208c88fe7#npm:2.4.1-preview-20250130180147"],\
+          ["@medusajs/types", "virtual:64e2b398de003c889d7ee7a2e8c49cd91228ba1fee2befa518c0211c7a27f2490e88865874d20264c2c0a21a84c76c69ddc6b4b115007b1319af612abfe5bf72#npm:2.4.1-preview-20250130210149"],\
           ["@types/awilix", null],\
           ["@types/ioredis", null],\
           ["@types/vite", null],\
@@ -5323,21 +5323,21 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@medusajs/ui-preset", [\
-      ["npm:2.4.1-preview-20250130180147", {\
-        "packageLocation": "../../home/codespace/.yarn/berry/cache/@medusajs-ui-preset-npm-2.4.1-preview-20250130180147-39bfe7211a-10c0.zip/node_modules/@medusajs/ui-preset/",\
+      ["npm:2.4.1-preview-20250130210149", {\
+        "packageLocation": "../../home/codespace/.yarn/berry/cache/@medusajs-ui-preset-npm-2.4.1-preview-20250130210149-613bde1e9b-10c0.zip/node_modules/@medusajs/ui-preset/",\
         "packageDependencies": [\
-          ["@medusajs/ui-preset", "npm:2.4.1-preview-20250130180147"]\
+          ["@medusajs/ui-preset", "npm:2.4.1-preview-20250130210149"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:29147fde2cb3d7a085b18a7956ae31109ad289f6cb575555baf872bf1f492fc6f81de782f45766f5a1e8712179e5fc56924109499f33317a5b8046c559204dac#npm:2.4.1-preview-20250130180147", {\
-        "packageLocation": "./.yarn/__virtual__/@medusajs-ui-preset-virtual-95c191dc06/3/home/codespace/.yarn/berry/cache/@medusajs-ui-preset-npm-2.4.1-preview-20250130180147-39bfe7211a-10c0.zip/node_modules/@medusajs/ui-preset/",\
+      ["virtual:29147fde2cb3d7a085b18a7956ae31109ad289f6cb575555baf872bf1f492fc6f81de782f45766f5a1e8712179e5fc56924109499f33317a5b8046c559204dac#npm:2.4.1-preview-20250130210149", {\
+        "packageLocation": "./.yarn/__virtual__/@medusajs-ui-preset-virtual-317467dfbc/3/home/codespace/.yarn/berry/cache/@medusajs-ui-preset-npm-2.4.1-preview-20250130210149-613bde1e9b-10c0.zip/node_modules/@medusajs/ui-preset/",\
         "packageDependencies": [\
-          ["@medusajs/ui-preset", "virtual:29147fde2cb3d7a085b18a7956ae31109ad289f6cb575555baf872bf1f492fc6f81de782f45766f5a1e8712179e5fc56924109499f33317a5b8046c559204dac#npm:2.4.1-preview-20250130180147"],\
-          ["@tailwindcss/forms", "virtual:95c191dc0610496d290b9ad0b748a2fd8f9be21d6ee9d0108a0123a3b3ab8f8363a3853988edd73ba509d4c0ca58d25e5166eacc79fd92212535c4c903e7f19e#npm:0.5.10"],\
+          ["@medusajs/ui-preset", "virtual:29147fde2cb3d7a085b18a7956ae31109ad289f6cb575555baf872bf1f492fc6f81de782f45766f5a1e8712179e5fc56924109499f33317a5b8046c559204dac#npm:2.4.1-preview-20250130210149"],\
+          ["@tailwindcss/forms", "virtual:317467dfbcd2cc32721f0b4b0afeb30b38a9d92a5806b907d25ef4171c1985cb685ceac908cad7c526bb9817167df8304316da448851136721470ba85c8e2b17#npm:0.5.10"],\
           ["@types/tailwindcss", null],\
           ["tailwindcss", "npm:3.4.17"],\
-          ["tailwindcss-animate", "virtual:95c191dc0610496d290b9ad0b748a2fd8f9be21d6ee9d0108a0123a3b3ab8f8363a3853988edd73ba509d4c0ca58d25e5166eacc79fd92212535c4c903e7f19e#npm:1.0.7"]\
+          ["tailwindcss-animate", "virtual:317467dfbcd2cc32721f0b4b0afeb30b38a9d92a5806b907d25ef4171c1985cb685ceac908cad7c526bb9817167df8304316da448851136721470ba85c8e2b17#npm:1.0.7"]\
         ],\
         "packagePeers": [\
           "@types/tailwindcss",\
@@ -14723,10 +14723,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:95c191dc0610496d290b9ad0b748a2fd8f9be21d6ee9d0108a0123a3b3ab8f8363a3853988edd73ba509d4c0ca58d25e5166eacc79fd92212535c4c903e7f19e#npm:0.5.10", {\
-        "packageLocation": "./.yarn/__virtual__/@tailwindcss-forms-virtual-3e59f5bf49/3/home/codespace/.yarn/berry/cache/@tailwindcss-forms-npm-0.5.10-73698b17d7-10c0.zip/node_modules/@tailwindcss/forms/",\
+      ["virtual:317467dfbcd2cc32721f0b4b0afeb30b38a9d92a5806b907d25ef4171c1985cb685ceac908cad7c526bb9817167df8304316da448851136721470ba85c8e2b17#npm:0.5.10", {\
+        "packageLocation": "./.yarn/__virtual__/@tailwindcss-forms-virtual-4575072a51/3/home/codespace/.yarn/berry/cache/@tailwindcss-forms-npm-0.5.10-73698b17d7-10c0.zip/node_modules/@tailwindcss/forms/",\
         "packageDependencies": [\
-          ["@tailwindcss/forms", "virtual:95c191dc0610496d290b9ad0b748a2fd8f9be21d6ee9d0108a0123a3b3ab8f8363a3853988edd73ba509d4c0ca58d25e5166eacc79fd92212535c4c903e7f19e#npm:0.5.10"],\
+          ["@tailwindcss/forms", "virtual:317467dfbcd2cc32721f0b4b0afeb30b38a9d92a5806b907d25ef4171c1985cb685ceac908cad7c526bb9817167df8304316da448851136721470ba85c8e2b17#npm:0.5.10"],\
           ["@types/tailwindcss", null],\
           ["mini-svg-data-uri", "npm:1.4.4"],\
           ["tailwindcss", "npm:3.4.17"]\
@@ -21581,10 +21581,10 @@ const RAW_RUNTIME_STATE =
           ["@headlessui/react", "virtual:29147fde2cb3d7a085b18a7956ae31109ad289f6cb575555baf872bf1f492fc6f81de782f45766f5a1e8712179e5fc56924109499f33317a5b8046c559204dac#npm:1.7.19"],\
           ["@hookform/error-message", "virtual:29147fde2cb3d7a085b18a7956ae31109ad289f6cb575555baf872bf1f492fc6f81de782f45766f5a1e8712179e5fc56924109499f33317a5b8046c559204dac#npm:2.0.1"],\
           ["@medusajs/client-types", "npm:0.2.12-preview-20240505115807"],\
-          ["@medusajs/js-sdk", "npm:2.4.1-preview-20250130180147"],\
-          ["@medusajs/types", "virtual:721fcc9cdfc7e63916072523e5e0f729fee8a54dad6756fc436e37dab661beee6fce45bad235110ad67216dc13af8e62e086f313175d1b8caff0471208c88fe7#npm:2.4.1-preview-20250130180147"],\
+          ["@medusajs/js-sdk", "npm:2.4.1-preview-20250130210149"],\
+          ["@medusajs/types", "virtual:64e2b398de003c889d7ee7a2e8c49cd91228ba1fee2befa518c0211c7a27f2490e88865874d20264c2c0a21a84c76c69ddc6b4b115007b1319af612abfe5bf72#npm:2.4.1-preview-20250130210149"],\
           ["@medusajs/ui", "virtual:29147fde2cb3d7a085b18a7956ae31109ad289f6cb575555baf872bf1f492fc6f81de782f45766f5a1e8712179e5fc56924109499f33317a5b8046c559204dac#npm:4.0.4-preview-20250127060149"],\
-          ["@medusajs/ui-preset", "virtual:29147fde2cb3d7a085b18a7956ae31109ad289f6cb575555baf872bf1f492fc6f81de782f45766f5a1e8712179e5fc56924109499f33317a5b8046c559204dac#npm:2.4.1-preview-20250130180147"],\
+          ["@medusajs/ui-preset", "virtual:29147fde2cb3d7a085b18a7956ae31109ad289f6cb575555baf872bf1f492fc6f81de782f45766f5a1e8712179e5fc56924109499f33317a5b8046c559204dac#npm:2.4.1-preview-20250130210149"],\
           ["@meilisearch/instant-meilisearch", "npm:0.7.1"],\
           ["@paypal/paypal-js", "npm:5.1.6"],\
           ["@paypal/react-paypal-js", "virtual:29147fde2cb3d7a085b18a7956ae31109ad289f6cb575555baf872bf1f492fc6f81de782f45766f5a1e8712179e5fc56924109499f33317a5b8046c559204dac#npm:7.8.3"],\
@@ -25785,10 +25785,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:95c191dc0610496d290b9ad0b748a2fd8f9be21d6ee9d0108a0123a3b3ab8f8363a3853988edd73ba509d4c0ca58d25e5166eacc79fd92212535c4c903e7f19e#npm:1.0.7", {\
-        "packageLocation": "./.yarn/__virtual__/tailwindcss-animate-virtual-3ce99da8f1/3/home/codespace/.yarn/berry/cache/tailwindcss-animate-npm-1.0.7-0ee9776556-10c0.zip/node_modules/tailwindcss-animate/",\
+      ["virtual:317467dfbcd2cc32721f0b4b0afeb30b38a9d92a5806b907d25ef4171c1985cb685ceac908cad7c526bb9817167df8304316da448851136721470ba85c8e2b17#npm:1.0.7", {\
+        "packageLocation": "./.yarn/__virtual__/tailwindcss-animate-virtual-cc3526472d/3/home/codespace/.yarn/berry/cache/tailwindcss-animate-npm-1.0.7-0ee9776556-10c0.zip/node_modules/tailwindcss-animate/",\
         "packageDependencies": [\
-          ["tailwindcss-animate", "virtual:95c191dc0610496d290b9ad0b748a2fd8f9be21d6ee9d0108a0123a3b3ab8f8363a3853988edd73ba509d4c0ca58d25e5166eacc79fd92212535c4c903e7f19e#npm:1.0.7"],\
+          ["tailwindcss-animate", "virtual:317467dfbcd2cc32721f0b4b0afeb30b38a9d92a5806b907d25ef4171c1985cb685ceac908cad7c526bb9817167df8304316da448851136721470ba85c8e2b17#npm:1.0.7"],\
           ["@types/tailwindcss", null],\
           ["tailwindcss", "npm:3.4.17"]\
         ],\
