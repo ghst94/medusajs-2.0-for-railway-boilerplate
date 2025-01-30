@@ -63,13 +63,13 @@ importers:
         specifier: ^6.12.1
         version: 6.13.1
       react:
-        specifier: ^18.2.0
+        specifier: '18'
         version: 18.3.1
       react-country-flag:
         specifier: ^3.0.2
         version: 3.1.0(react@18.3.1)
       react-dom:
-        specifier: ^18.2.0
+        specifier: '18'
         version: 18.3.1(react@18.3.1)
       react-instantsearch-hooks-web:
         specifier: ^6.29.0
