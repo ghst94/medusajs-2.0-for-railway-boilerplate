@@ -42,10 +42,12 @@ const RAW_RUNTIME_STATE =
           ["@mikro-orm/knex", "virtual:151960c25e458760e97832dc4ddaeb965c06374985a81eae5e28116719ba324424dfb2fc9eb0027b8c552a95fce519b3086f72fa9e593bfe2ea2c4af457003a7#npm:6.4.3"],\
           ["@mikro-orm/migrations", "virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:6.4.3"],\
           ["@mikro-orm/postgresql", "virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:6.4.3"],\
-          ["awilix", "npm:12.0.4"],\
+          ["awilix", "npm:8.0.1"],\
           ["level", "npm:9.0.0"],\
           ["leveldown", "npm:6.1.1"],\
           ["protobufjs", "npm:7.4.0"],\
+          ["react", "npm:19.0.0"],\
+          ["react-dom", "virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:19.0.0"],\
           ["react-hook-form", "virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:7.54.2"],\
           ["zod", "npm:3.24.1"]\
         ],\
@@ -3463,7 +3465,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -3501,7 +3503,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -3623,7 +3625,7 @@ const RAW_RUNTIME_STATE =
           ["@medusajs/framework", "virtual:949ddc5364ee964cb06ca36d1e40ccc64fcf29f8ad3800651818d8ff8fab7078e35448f6ce257b0f129065b812bca465cc458ea01e7565c954d97b45f552c28a#npm:2.4.0"],\
           ["@types/awilix", null],\
           ["@types/medusajs__framework", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["ioredis", "npm:5.4.2"]\
         ],\
         "packagePeers": [\
@@ -3656,7 +3658,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -3698,7 +3700,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
           ["@types/pg", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["chalk", "npm:4.1.2"],\
           ["configstore", "npm:5.0.1"],\
           ["dotenv", "npm:16.4.7"],\
@@ -3762,7 +3764,7 @@ const RAW_RUNTIME_STATE =
           ["@medusajs/framework", "virtual:949ddc5364ee964cb06ca36d1e40ccc64fcf29f8ad3800651818d8ff8fab7078e35448f6ce257b0f129065b812bca465cc458ea01e7565c954d97b45f552c28a#npm:2.4.0"],\
           ["@types/awilix", null],\
           ["@types/medusajs__framework", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["json-2-csv", "npm:5.5.8"]\
         ],\
         "packagePeers": [\
@@ -3795,7 +3797,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -3833,7 +3835,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -3930,7 +3932,7 @@ const RAW_RUNTIME_STATE =
           ["@medusajs/framework", "virtual:949ddc5364ee964cb06ca36d1e40ccc64fcf29f8ad3800651818d8ff8fab7078e35448f6ce257b0f129065b812bca465cc458ea01e7565c954d97b45f552c28a#npm:2.4.0"],\
           ["@types/awilix", null],\
           ["@types/medusajs__framework", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["bullmq", "npm:5.13.0"],\
           ["ioredis", "npm:5.4.2"]\
         ],\
@@ -3958,7 +3960,7 @@ const RAW_RUNTIME_STATE =
           ["@medusajs/framework", "virtual:949ddc5364ee964cb06ca36d1e40ccc64fcf29f8ad3800651818d8ff8fab7078e35448f6ce257b0f129065b812bca465cc458ea01e7565c954d97b45f552c28a#npm:2.4.0"],\
           ["@types/awilix", null],\
           ["@types/medusajs__framework", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4053,7 +4055,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__postgresql", null],\
           ["@types/pg", null],\
           ["@types/vite", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["chokidar", "npm:3.6.0"],\
           ["compression", "npm:1.7.4"],\
           ["connect-redis", "npm:5.2.0"],\
@@ -4117,7 +4119,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4221,7 +4223,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__knex", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4261,7 +4263,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4321,7 +4323,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4359,7 +4361,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4493,7 +4495,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
           ["@types/yalc", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["boxen", "npm:5.1.2"],\
           ["chalk", "npm:4.1.2"],\
           ["chokidar", "npm:3.6.0"],\
@@ -4556,7 +4558,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
           ["@types/pg", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["express", "npm:4.21.2"],\
           ["pg", "virtual:fbe1d3ba9db5790a156c7156d144fe605d93a549be6f1aaf81e9a0a53cfc4681538f83197f7252805d0152a2008a4589254bdcd28f380713d3988e42647aaa2d#npm:8.13.1"]\
         ],\
@@ -4600,7 +4602,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4687,7 +4689,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
           ["@types/pg", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["express", "npm:4.21.2"],\
           ["pg", "virtual:fbe1d3ba9db5790a156c7156d144fe605d93a549be6f1aaf81e9a0a53cfc4681538f83197f7252805d0152a2008a4589254bdcd28f380713d3988e42647aaa2d#npm:8.13.1"]\
         ],\
@@ -4731,7 +4733,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4769,7 +4771,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4801,7 +4803,7 @@ const RAW_RUNTIME_STATE =
           ["@medusajs/framework", "virtual:949ddc5364ee964cb06ca36d1e40ccc64fcf29f8ad3800651818d8ff8fab7078e35448f6ce257b0f129065b812bca465cc458ea01e7565c954d97b45f552c28a#npm:2.4.0"],\
           ["@types/awilix", null],\
           ["@types/medusajs__framework", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["stripe", "npm:15.12.0"]\
         ],\
         "packagePeers": [\
@@ -4834,7 +4836,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4872,7 +4874,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4910,7 +4912,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4948,7 +4950,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -4986,7 +4988,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -5024,7 +5026,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -5062,7 +5064,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -5100,7 +5102,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"]\
+          ["awilix", "npm:12.0.4"]\
         ],\
         "packagePeers": [\
           "@medusajs/framework",\
@@ -5158,7 +5160,7 @@ const RAW_RUNTIME_STATE =
           ["@types/awilix", null],\
           ["@types/ioredis", null],\
           ["@types/vite", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["bignumber.js", "npm:9.1.2"],\
           ["ioredis", null],\
           ["vite", null]\
@@ -5367,7 +5369,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["jsonwebtoken", "npm:9.0.2"]\
         ],\
         "packagePeers": [\
@@ -5414,7 +5416,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__postgresql", null],\
           ["@types/pg", null],\
           ["@types/pluralize", "npm:0.0.33"],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["bignumber.js", "npm:9.1.2"],\
           ["dotenv", "npm:16.4.7"],\
           ["dotenv-expand", "npm:11.0.7"],\
@@ -5466,7 +5468,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["cron-parser", "npm:4.9.0"],\
           ["ulid", "npm:2.3.0"]\
         ],\
@@ -5506,7 +5508,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__core", null],\
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["bullmq", "npm:5.13.0"],\
           ["ioredis", "npm:5.4.2"],\
           ["ulid", "npm:2.3.0"]\
@@ -5553,7 +5555,7 @@ const RAW_RUNTIME_STATE =
           ["@types/mikro-orm__migrations", null],\
           ["@types/mikro-orm__postgresql", null],\
           ["@types/pg", null],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["express", "npm:4.21.2"],\
           ["pg", "virtual:fbe1d3ba9db5790a156c7156d144fe605d93a549be6f1aaf81e9a0a53cfc4681538f83197f7252805d0152a2008a4589254bdcd28f380713d3988e42647aaa2d#npm:8.13.1"],\
           ["ulid", "npm:2.3.0"]\
@@ -21561,7 +21563,7 @@ const RAW_RUNTIME_STATE =
           ["@types/node", "npm:20.17.16"],\
           ["@types/react", "npm:19.0.8"],\
           ["@types/react-dom", "virtual:949ddc5364ee964cb06ca36d1e40ccc64fcf29f8ad3800651818d8ff8fab7078e35448f6ce257b0f129065b812bca465cc458ea01e7565c954d97b45f552c28a#npm:19.0.3"],\
-          ["awilix", "npm:8.0.1"],\
+          ["awilix", "npm:12.0.4"],\
           ["express", "npm:4.21.2"],\
           ["pg", "virtual:fbe1d3ba9db5790a156c7156d144fe605d93a549be6f1aaf81e9a0a53cfc4681538f83197f7252805d0152a2008a4589254bdcd28f380713d3988e42647aaa2d#npm:8.13.1"],\
           ["react", "npm:19.0.0"],\
@@ -23819,6 +23821,20 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
+      ["virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:19.0.0", {\
+        "packageLocation": "./.yarn/__virtual__/react-dom-virtual-e54bb3ed1c/3/home/codespace/.yarn/berry/cache/react-dom-npm-19.0.0-b7981c573e-10c0.zip/node_modules/react-dom/",\
+        "packageDependencies": [\
+          ["react-dom", "virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:19.0.0"],\
+          ["@types/react", null],\
+          ["react", "npm:19.0.0"],\
+          ["scheduler", "npm:0.25.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/react",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["virtual:84bec4bd0d591b98b236a1100e539e5640a169d539bf209ca91dab66e7c09ddb2a64b27982737fd851aa93753e0021a301d2d5a5fc6835f05b856a4f5c8230b0#npm:18.3.1", {\
         "packageLocation": "./.yarn/__virtual__/react-dom-virtual-d064ae6074/3/home/codespace/.yarn/berry/cache/react-dom-npm-18.3.1-a805663f38-10c0.zip/node_modules/react-dom/",\
         "packageDependencies": [\
@@ -23903,7 +23919,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["react-hook-form", "virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:7.54.2"],\
           ["@types/react", null],\
-          ["react", null]\
+          ["react", "npm:19.0.0"]\
         ],\
         "packagePeers": [\
           "@types/react",\
@@ -24742,10 +24758,12 @@ const RAW_RUNTIME_STATE =
           ["@mikro-orm/knex", "virtual:151960c25e458760e97832dc4ddaeb965c06374985a81eae5e28116719ba324424dfb2fc9eb0027b8c552a95fce519b3086f72fa9e593bfe2ea2c4af457003a7#npm:6.4.3"],\
           ["@mikro-orm/migrations", "virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:6.4.3"],\
           ["@mikro-orm/postgresql", "virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:6.4.3"],\
-          ["awilix", "npm:12.0.4"],\
+          ["awilix", "npm:8.0.1"],\
           ["level", "npm:9.0.0"],\
           ["leveldown", "npm:6.1.1"],\
           ["protobufjs", "npm:7.4.0"],\
+          ["react", "npm:19.0.0"],\
+          ["react-dom", "virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:19.0.0"],\
           ["react-hook-form", "virtual:36a01d8083315b8a6e8362097258ea8bc0f9dfb672cb210742e054760850c673a1038f542a6b7156397b5275ace8ee0482231cac5e8898044fa1a1c29f78ee5b#npm:7.54.2"],\
           ["zod", "npm:3.24.1"]\
         ],\

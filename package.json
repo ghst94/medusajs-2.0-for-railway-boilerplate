@@ -14,10 +14,12 @@
     "@mikro-orm/knex": "6.4.3",
     "@mikro-orm/migrations": "6.4.3",
     "@mikro-orm/postgresql": "6.4.3",
-    "awilix": "^12.0.4",
+    "awilix": "^8.0.1",
     "level": "^9.0.0",
     "leveldown": "^6.1.1",
     "protobufjs": "^7.4.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "react-hook-form": "^7.54.2",
     "zod": "^3.24.1"
   },
