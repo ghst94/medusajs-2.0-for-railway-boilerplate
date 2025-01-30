@@ -1,0 +1,25 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "backend",
+      "storefront",
+      "packages/*"
+    ]
+  },
+  "dependencies": {
+    "@mikro-orm/cli": "6.4.3",
+    "@mikro-orm/core": "6.4.3",
+    "@mikro-orm/knex": "6.4.3",
+    "@mikro-orm/migrations": "6.4.3",
+    "@mikro-orm/postgresql": "6.4.3",
+    "awilix": "^12.0.4",
+    "level": "^9.0.0",
+    "leveldown": "^6.1.1",
+    "protobufjs": "^7.4.0",
+    "react-hook-form": "^7.54.2",
+    "zod": "^3.24.1"
+  },
+  "packageManager": "yarn@4.6.0"
+}

@@ -15,7 +15,6 @@
     "analyze": "ANALYZE=true next build",
     "test-e2e": "playwright test e2e"
   },
-  
   "resolutions": {
     "webpack": "^5"
   },
@@ -37,9 +36,9 @@
     "next": "^14.0.0",
     "pg": "^8.11.3",
     "qs": "^6.12.1",
-    "react": "^18.2.0",
+    "react": "18",
     "react-country-flag": "^3.0.2",
-    "react-dom": "^18.2.0",
+    "react-dom": "18",
     "react-instantsearch-hooks-web": "^6.29.0",
     "react-intersection-observer": "^9.3.4",
     "server-only": "^0.0.1",
